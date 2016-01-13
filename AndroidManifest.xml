@@ -15,6 +15,6 @@
       android:value="Disable alternate lockscreen wallpaper" />
     <meta-data
       android:name="xposedminversion"
-      android:value="54" />
+      android:value="60" />
   </application>
 </manifest>
